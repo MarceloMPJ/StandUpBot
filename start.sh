@@ -1,0 +1,1 @@
+SLACK_API_TOKEN=xoxb-423225975410-424264015255-HdbaIw7IHyK4RAMcXlQpYqpT bundle exec ruby stand_up_bot.rb
